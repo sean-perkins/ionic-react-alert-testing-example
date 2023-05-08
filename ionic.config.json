@@ -1,0 +1,7 @@
+{
+  "name": "react-testing-alert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
